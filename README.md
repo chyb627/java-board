@@ -28,3 +28,11 @@ $ git remote add origin https://github.com/chyb627/java-board.git
 # git push
 $ git push -u origin main
 ```
+
+
+### 인텔리제이 커맨드
+```bash
+# 왼쪽 프로젝트창 열기/닫기 (vscode의 command + b)
+$ command + 1
+
+```
